@@ -33,7 +33,7 @@ An AI-powered interview screening tool that dynamically analyzes resumes and job
 └── .gitignore            # Ignored files
 
 
-
+```
 ---
 
 ## 🛠️ Tech Stack
