@@ -2,6 +2,8 @@
 
 An AI-powered interview screening tool that dynamically analyzes resumes and job descriptions to conduct intelligent, conversational interviews. Supports both text and voice-based modes for candidate interaction.
 
+
+FULL CODE IS IN ZIP FILE 
 ---
 
 ## 🚀 Features
